@@ -2,7 +2,7 @@
 
 The aim for this assignment was to do principled step by step and phase by phase data science with the three methodologies i.e. KDD, SEMMA and CRISP DM.
 
-We needed to demonstrate a project which used all stages of the the methodology. It was mentioned in the assignment that we can use detailed help from chatgpt/gpt4 for making sure each and every stage and all the subtasks were fully complete and in depth and in detailed. I have verified the chatgpt code manually and all the steps were included in the code. Every methodology required a different dataset, so I used 3 differenrt dataset.
+We needed to demonstrate a project which used all stages of the the methodology. It was mentioned in the assignment that we can use detailed help from chatgpt/gpt4 for making sure each and every stage and all the subtasks were fully complete and in depth and in detailed. I have verified the chatgpt code manually and all the steps were included in the code. Every methodology required a different dataset, so I used 3 different dataset.
 Link for the datasets: https://drive.google.com/drive/folders/1WKHDeDOkp_b7BVxIT-sTxo01TivtlqSk?usp=sharing
 
 
