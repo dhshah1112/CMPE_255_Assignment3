@@ -4,6 +4,10 @@ The aim for this assignment was to do principled step by step and phase by phase
 
 We needed to demonstrate a project which used all stages of the the methodology. It was mentioned in the assignment that we can use detailed help from chatgpt/gpt4 for making sure each and every stage and all the subtasks were fully complete and in depth and in detailed. I have verified the chatgpt code manually and all the steps were included in the code. Every methodology required a different dataset, so I used 3 different dataset.
 Link for the datasets: https://drive.google.com/drive/folders/1WKHDeDOkp_b7BVxIT-sTxo01TivtlqSk?usp=sharing
+Link for the colab notebooks:
+SEMMA:    https://colab.research.google.com/drive/1BZqckch8VcrovAvFlUkGZJculYzKPG1K?usp=sharing
+CRISP-DM: https://colab.research.google.com/drive/1QzQjUStyWzOE3_A1-6m9X6KI5uA3KYgm?usp=sharing
+KDD:      https://colab.research.google.com/drive/10vDP0aStZqNFhL3NJjSB6ZaXiYhecrXE?usp=sharing
 
 
 The assignemnt asked us to document all methodologies into a medium article, one medium article for each of the methodology.
